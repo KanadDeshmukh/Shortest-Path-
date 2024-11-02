@@ -1,0 +1,514 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-02T08:02:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7066374613",
+        "addr:district": "Yavatmal",
+        "addr:full": "83,Hospital Complex , OppositeT.V. Center Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Zilpelwar Orthopaedic and Rehabilitation Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5703537,
+          19.9081921
+        ]
+      },
+      "id": "node/7066374613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073916594",
+        "addr:district": "Yavatmal",
+        "addr:full": "Near Tv Centre D K Road Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sai Krupa Hospital, Yavatmal",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5710954,
+          19.9087614
+        ]
+      },
+      "id": "node/7073916594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7229312419",
+        "addr:district": "Yavatmal",
+        "addr:full": "Nanded Road, Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Pusad",
+        "amenity": "hospital",
+        "description": "Sub District Hospital",
+        "name": "SDH Pusad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5625546,
+          19.9043208
+        ]
+      },
+      "id": "node/7229312419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202175",
+        "addr:district": "Yavatmal",
+        "addr:full": "Saptagiri Nagar, Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jadhav Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.565361,
+          19.908392
+        ]
+      },
+      "id": "node/7626202175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202185",
+        "addr:district": "Yavatmal",
+        "addr:full": "Near Vasantrao Naik Square, Opp. Aai Hospital, Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Malpani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5735146,
+          19.9053006
+        ]
+      },
+      "id": "node/7626202185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202190",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Manish Pathak Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573791,
+          19.905246
+        ]
+      },
+      "id": "node/7626202190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202203",
+        "addr:district": "Yavatmal",
+        "addr:full": "Near Shani Dev Mandir, Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Hirani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.569598,
+          19.906669
+        ]
+      },
+      "id": "node/7626202203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202205",
+        "addr:district": "Yavatmal",
+        "addr:full": "Digras, Umarkhed - Pusad Road, Pusad, Yavatmal",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Satyashanti Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.566981,
+          19.908769
+        ]
+      },
+      "id": "node/7626202205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202206",
+        "addr:district": "Yavatmal",
+        "addr:full": "Umarkhed Road, Near ICICI Bank, Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dange Hospital, Maternity and ENT Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5706575,
+          19.9057618
+        ]
+      },
+      "id": "node/7626202206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202211",
+        "addr:district": "Yavatmal",
+        "addr:full": "Opp. Over Head Water Tank, Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bhandari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5659685,
+          19.9077772
+        ]
+      },
+      "id": "node/7626202211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202218",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chavan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.569198,
+          19.905791
+        ]
+      },
+      "id": "node/7626202218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202219",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nidaan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.568691,
+          19.904949
+        ]
+      },
+      "id": "node/7626202219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202227",
+        "addr:district": "Yavatmal",
+        "addr:full": "Infront of Khambalkar Hospital, Near Vasantrao Naik Chauk, Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Spandan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5724781,
+          19.9044343
+        ]
+      },
+      "id": "node/7626202227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202228",
+        "addr:district": "Yavatmal",
+        "addr:full": "Talao Layout, Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Wadhawe Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5730674,
+          19.9086559
+        ]
+      },
+      "id": "node/7626202228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202230",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Life Line Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.567199,
+          19.9062919
+        ]
+      },
+      "id": "node/7626202230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202241",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shinde Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.571651,
+          19.906561
+        ]
+      },
+      "id": "node/7626202241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202244",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Malani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5661111,
+          19.9087579
+        ]
+      },
+      "id": "node/7626202244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202250",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Masoom Ali Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.560884,
+          19.909182
+        ]
+      },
+      "id": "node/7626202250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202258",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Medicare Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5693466,
+          19.9151767
+        ]
+      },
+      "id": "node/7626202258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202263",
+        "addr:district": "Yavatmal",
+        "addr:full": "Vasantrao Naik Square, Nanded Road, Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5734295,
+          19.9049861
+        ]
+      },
+      "id": "node/7626202263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202270",
+        "addr:district": "Yavatmal",
+        "addr:full": "Hospital Complex, Opp. T.V. Center, Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kadam Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.570486,
+          19.908293
+        ]
+      },
+      "id": "node/7626202270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202275",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445216",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "MDR Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5723108,
+          19.9063774
+        ]
+      },
+      "id": "node/7626202275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202286",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Annapurna Hospital and Maternity Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5690361,
+          19.9087074
+        ]
+      },
+      "id": "node/7626202286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626202291",
+        "addr:district": "Yavatmal",
+        "addr:full": "Pusad",
+        "addr:postcode": "445215",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shinde Psychiatric Nursing Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.575913,
+          19.900037
+        ]
+      },
+      "id": "node/7626202291"
+    }
+  ]
+}
